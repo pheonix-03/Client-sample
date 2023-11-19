@@ -10,4 +10,4 @@
 - FramerMotion
 
 # Preview of this Website
-![](https://github.com/pheonix-03/Client-sample/blob/master/websiteGIF.gif)
+![websiteGIF](https://github.com/pheonix-03/Client-sample/assets/60469025/8804a831-c140-43de-82f7-7d9fc331e525)
